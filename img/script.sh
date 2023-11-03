@@ -1,0 +1,1 @@
+convert $1 -resize 64x64 $2.xpm
